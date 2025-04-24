@@ -1,5 +1,6 @@
 # mastersappendix
 Attached in this repository is the following:
 - ImageJ macro for counting blue cells
-- Rscript for Chi-squared and Boniferroni calculation
-- All Rscripts for the graphs generated
+- Rscripts for the generation of Figures 3.2, 3.3, 3.4, 3.5 and 3.7
+- Rscripts for the statistical tests conducted
+- Text justifications for why each test was chosen 
