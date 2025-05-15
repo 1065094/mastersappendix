@@ -1,0 +1,1 @@
+I chose to do a Mann-Whitney U test for this as a t-test was the initial thought; however, due to the assumption of the homogenenity of variance not being met, I chose to do Mann-Whitney U. Additionally, sample sizes were quite small given it was a preliminary investigation with n = 3 per condition and cell line.
