@@ -1,2 +1,7 @@
-I chose to do an ANOVA, since I was comparing the mean between two groups
-- There is a section for linear regressions too
+I chose to do a two-way ANOVA, since I was trying to understand the main effects of cell line and treatment condition on cell diameter. Additionally, the ANOVA would have allowed me to identify if there were any interaction effects between them. Initially, a repeated measures ANOVA was desired as it would have held where the cell lines would be treated as blocks and the five treatments would be fixed effects, which were: untreated, 1 µm, 10 µm, 6 Gy and 8 Gy. Though since a Well ID was not created, there were issues with carrying this out. Regardless, ANOVA does assume independence which may have been difficult to determine due to repeated measurements in each well over the days.
+
+Linear regression was also fitted and provided in the code for parametric analysis to see changes in trend over day which is the continous variable. 
+This was done alongside a linear mixed-effects model (LMM), which would account for the variability across days and give further insight into interactions between cell line, condition and day, whilst handling unbalanced data arguably better than ANOVA or in this case the lack of independence in measurements.
+
+Post-hoc tests were conducted to adjust for multiple comparisons using Tukey's.
+Emmeans helped understand pairwise comparisons of treatment conditions within each day and cell line to identify if there were statistically significant differences in cell diameter, though this was not clearly found, hence highlighting how this may not be a reliable method as discussed in the Results section of the dissertation (3.2).
