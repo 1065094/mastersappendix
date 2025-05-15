@@ -18,4 +18,6 @@ In this case, there was major deviation from the test conducted (see 3.5DHARMA.m
 
 This approach allows for appropriate significance to be determined while controlling for both fixed experimental manipulations and random variability introduced by the design and corrects for the deviance detected.
 
+All data points were included, alongside the mean proportion calculated supplemented with confidence intervals to highlight variation and significance or lack thereof. Colours represent each condition and this is kept consistent across Figures from 3.4 onwards and similarly with shapes which represent the block as aforementioned.
+
 
