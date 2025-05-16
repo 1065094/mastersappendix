@@ -3,7 +3,6 @@ library(dplyr)
 library(ggplot2)
 library(ggpubr)
 library(patchwork)
-library(coin)
 #Loading in packages needed
 
 #Loading in dataset, replace with your file
