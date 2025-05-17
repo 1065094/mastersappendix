@@ -5,5 +5,5 @@ Attached in this repository is the following:
 - Rscripts for the statistical tests conducted
 - Text justifications for why each test was chosen
 - Supplementary figure 3.5S: O2 concentration verification
-- DOI: http://10.5281/zenodo.15453829.
+- DOI: http://doi.org/10.5281/zenodo.15453829.
   MBiol Oxford (2025): Investigating radiation-induced senescence under hypoxic conditions, v.1.0.0
