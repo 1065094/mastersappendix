@@ -5,4 +5,4 @@ Attached in this repository is the following:
 - Rscripts for the statistical tests conducted
 - Text justifications for why each test was chosen
 - Supplementary figure 3.5S: O2 concentration verification
-DOI: 10.5281/zenodo.15453829.
+- DOI: 10.5281/zenodo.15453829.
