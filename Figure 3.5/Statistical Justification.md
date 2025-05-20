@@ -7,7 +7,7 @@ These were to be compared in the manner to answer the three questions outlined i
 - IR V Hyp + IR
   
 A GLMM was also appropriate to account and mitigate for variability from random effects, which in this case were:
-- Block: to account for experiments performed on different days, n = 3
+- Block: to account for experiments performed on different days, N = 3 (repeats), n = 45 (observations). Df was not reported due to the method of z-testing which results in Infinite degrees of freedom.
 - Well: to account for triplicates within block
 Accounting for random effects also helps reduce the risk of pseudo-replication or inflated type I error by acknowledging non-independence among repeated measures.
 Estimated marginal means and pairwise comparisons were then used to assess treatment effects on the probability of cells appearing senescence.
